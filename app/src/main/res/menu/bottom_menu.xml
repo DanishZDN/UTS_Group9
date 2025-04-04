@@ -7,7 +7,7 @@
         android:title="Journey" />
 
     <item
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/navigation_calendar"
         android:icon="@drawable/baseline_calendar_today_24"
         android:title="Calendar" />
 
@@ -17,12 +17,12 @@
         android:enabled="false" />
 
     <item
-        android:id="@+id/navigation_notifications"
+        android:id="@+id/navigation_media"
         android:icon="@drawable/baseline_photo_camera_back_24"
         android:title="Media" />
 
     <item
-        android:id="@+id/navigation_profile"
+        android:id="@+id/navigation_atlas"
         android:icon="@drawable/baseline_map_24"
         android:title="Atlas" />
 

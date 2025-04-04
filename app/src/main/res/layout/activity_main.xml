@@ -10,9 +10,10 @@
 
     <!-- Main content frame (for fragments or activities) -->
     <FrameLayout
-        android:id="@+id/frame_layout"
+        android:id="@+id/fragment_container"
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"/>
+
 
     <!-- Bottom App Bar with cradle for FAB -->
     <com.google.android.material.bottomappbar.BottomAppBar
@@ -45,7 +46,7 @@
         android:id="@+id/tab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@drawable/baseline_camera_alt_24"
+        android:src="@drawable/baseline_book_24"
         android:backgroundTint="@color/white"
         app:layout_anchor="@id/bottomAppBar"
         android:tint = "@color/bla"
