@@ -4,4 +4,7 @@
     <item name="imagePreview" type="id" />
     <item name="btnAddPhoto" type="id" />
     <item name="btnSaveJournal" type="id" />
+    <item name="journalListContainer" type="id" />
+    <item name="action_newJournal_to_homeFragment" type="id" />
+    <item name="action_homeFragment_to_newJournal" type="id" />
 </resources>
