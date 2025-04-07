@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editTextJournal" type="id" />
+    <item name="imagePreview" type="id" />
+    <item name="btnAddPhoto" type="id" />
+    <item name="btnSaveJournal" type="id" />
+</resources>
