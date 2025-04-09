@@ -4,5 +4,6 @@
     android:id="@+id/recyclerMedia"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:padding="8dp"
+    android:paddingTop="70dp"
+    android:paddingBottom="70dp"
     android:clipToPadding="false"/>

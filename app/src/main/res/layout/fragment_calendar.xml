@@ -3,10 +3,9 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="vertical"
-    android:background="?android:attr/colorBackground"
-    android:layout_marginBottom="16dp"
-    android:paddingStart="8dp"
-    android:paddingEnd="16dp"
+    android:background="?attr/colorBackgroundFloating"    android:layout_marginBottom="16dp"
+    android:paddingTop="70dp"
+    android:paddingBottom="60dp"
     android:layout_gravity="center">
 
 

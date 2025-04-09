@@ -4,7 +4,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:layout_gravity="end|bottom|right"
-    android:padding="16dp">
+    android:paddingTop="70dp"
+    android:paddingBottom="70dp">
 
     <Button
         android:id="@+id/btnAddNewJournal"

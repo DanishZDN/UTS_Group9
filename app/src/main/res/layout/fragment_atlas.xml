@@ -3,8 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/bla"
-    tools:context=".AtlasFragment">
+    android:background="@color/black"
+    tools:context=".AtlasFragment"
+    android:paddingTop="70dp"
+    android:paddingBottom="60dp"
+    >
 
     <fragment
         android:id="@+id/map"
